@@ -99,7 +99,7 @@ namespace ntc {
         ["FCF4D0", "Double Pearl Lusta"],
         ["FDE910", "Lemon"],
         ["FEEBF3", "Remy"],
-        ["FF00CC", "Purple Pizzazz"],
+        ["FF0000", "Red"],
         ["FF6FFF", "Blush Pink"],
         ["FFA500", "Web Orange"],
         ["FFC901", "Supernova"],
