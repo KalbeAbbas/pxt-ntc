@@ -24,7 +24,6 @@ To edit this repository in MakeCode,
 
 ## Supported targets
 
-* for PXT/maker
 * for PXT/codal
 (The metadata above is needed for package search.)
 
